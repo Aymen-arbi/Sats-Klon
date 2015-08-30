@@ -1,5 +1,5 @@
 # Sats-clone
-A group av 5, coursework for Android course @ YHC3L 2014.</br>
+A group of 5, coursework for Android course @ YHC3L 2014.</br>
 Using Scrum as the project management methodology, the task was to build a partial clone of the official Sats Android application.
 
 ###My Contribution
