@@ -1,0 +1,13 @@
+# added by us
+/.idea/misc.xml
+*.iml
+.idea/gradle.xml
+.idea/modules.xml
+
+# default
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
