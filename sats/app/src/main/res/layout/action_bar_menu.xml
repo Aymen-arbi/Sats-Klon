@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/actionbar_background">
+
+    <ImageButton
+        android:src="@drawable/sats_logo_menu"
+        android:layout_width="90dp"
+        android:id="@+id/btn_dots_logo_sats_menu"
+        android:layout_height="30dp"
+        android:paddingTop="4dp"
+        android:paddingLeft="8dp"
+        android:background="@null"
+        android:scaleType="centerInside"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_toEndOf="@id/btn_dots_logo_sats_menu"
+        android:textStyle="bold"
+        android:textColor="@color/actionbar_title"
+        android:text="@string/my_training_actionbar_text"
+        android:background="@null"
+        android:paddingLeft="4dp"
+        android:paddingTop="4dp"
+        android:id="@+id/action_bar_text_view"/>
+</RelativeLayout>

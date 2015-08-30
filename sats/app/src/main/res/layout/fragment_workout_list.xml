@@ -1,0 +1,29 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_margin="0dp"
+    android:padding="0dp"
+    android:clickable="false">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/training_list_headline"
+        android:text="Kommande träning"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:padding="3dp"
+        android:background="@color/section_header"
+        android:textAllCaps="true"/>
+
+    <se.emilsjolander.stickylistheaders.StickyListHeadersListView
+        android:id="@+id/expandable_list_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/section_header"
+        android:layout_margin="0dp"
+        android:clickable="false"
+        android:divider="@null"
+        android:layout_below="@id/training_list_headline"/>
+</RelativeLayout>

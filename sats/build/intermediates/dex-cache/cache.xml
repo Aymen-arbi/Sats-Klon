@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aymenarbi/.gradle/caches/modules-2/files-2.1/com.koushikdutta.ion/ion/2.1.6/cd55ef3ba6d8b62838b658ba2507b019dffb3a08/ion-2.1.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cd55ef3ba6d8b62838b658ba2507b019dffb3a08">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/ion-2.1.6-a0faee92f74a741a2fe04047b2c7970a8dc04a48.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-872aacfc083fefe1d16839291537dc0041777ac8.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-fc261d96a68e560ecc04d581e0ee495ccc002cbe.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-27a9d630afc8ee4363b22a12a0910c7050e451ec.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-bce51a586667e1a660fb158f6208f5543c8e1240.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-d1ac39efc3d5ab1df4e5eea4cc03c41c6a6a2020.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-fd23414fea90242f9cce9cb47d4df2116060ddaf.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-71668846f3e88392b65d42c29846da0370237b90.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-e442d4d434de605439100fa30e7f851aab7732ec.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-fdd9a258083fa4816df7588138dbf7b765a5c8ed.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-0c01e6ff4609bb2253b46b60a05d04d5f20df86a.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0-837c92dc61f4799b5ce21b3be51ea485ad382dc3.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-46b0472d0c7fe5414a33fed4e91191f583297f6e.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-853fbc4657969d04ae75fd7904796f6c5f7c0b32.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-4206701141adf7011a811bb5d0c1629fcbf4be5e.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-b8ee282520d6aab11d4a2ba7f0857c495b402f78.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-36ce45e31abf0d929d592f6fd4bbc378083a3a34.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-357d1237ea43f910b75069a4366a4ad3cb0cbb21.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/se.emilsjolander/stickylistheaders/2.6.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd93a96342fce030e55cafc5917d768da0135164">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-1aa3dce24826fdd49cb4861cd28f1947ebcd409f.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-43d679ee34c29e8e00554747e95c689919c91bad.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/.gradle/caches/modules-2/files-2.1/com.koushikdutta.async/androidasync/2.1.6/e3d5f6ab2003e31f2cf5ea61b4731a21e9517935/androidasync-2.1.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d5f6ab2003e31f2cf5ea61b4731a21e9517935">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/androidasync-2.1.6-e63302b54606d4a8d8e48886bd9d1e990d06b44c.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.80.1/af03a682e186ea0ed39e50da86fd9e6ddaaf2240/realm-android-0.80.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af03a682e186ea0ed39e50da86fd9e6ddaaf2240">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/realm-android-0.80.1-664486ca1e8751f968c717dfb02ccdd3dcdae940.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/gson-2.3-2486c0da85ca31556b3dfa4a6adb3612d99c448e.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-03dc935766477d17c73f59982d61a3cc6130a403.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-b21eda9ba3fb5e64b78c7a1f3ebaa176a0d71cd7.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-d2c5706df36b483da762e18f724c1e52b9f8f5bf.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-bbd45e30f0e4d2bf19b9e50578f408b7fa1ee455.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-06c266637584b4f3a7189b9c0a303bad2a61efc2.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-d4412ba7c1892abd4dabe63b4a3b98ed3c0ed5cd.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-28a62a6533f84d4a8f69ae22e5f1378d194c086d.jar" />
+    </item>
+    <item
+        jar="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/aymenarbi/Desktop/greatBrain/sats/app/build/intermediates/pre-dexed/debug/classes-c3f9e8d14905aaee03be3a832faf48946f6eab44.jar" />
+    </item>
+
+</items>

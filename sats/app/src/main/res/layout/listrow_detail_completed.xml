@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="false"
+    android:padding="10dp"
+    android:gravity="center_vertical">
+
+    <ImageView
+        android:id="@+id/listrow_detail_completed_class_training_type_picture"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:contentDescription="@string/training_icon_description"
+        android:layout_marginEnd="10dp"
+        android:src="@drawable/all_training_icons"
+        android:layout_centerVertical="true"/>
+
+    <TextView
+        android:id="@+id/listrow_detail_completed_class_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/actionbar_title"
+        android:text="@string/listrow_detail_completed_class_name_string"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_toEndOf="@+id/listrow_detail_completed_class_training_type_picture"
+        />
+
+    <TextView
+        android:id="@+id/listrow_detail_completed_class_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/listrow_detail_completed_class_name"
+        android:text="@string/listrow_detail_completed_class_date_string"
+        android:textSize="12sp"
+        android:layout_alignStart="@+id/listrow_detail_completed_class_name"
+        />
+
+    <TextView
+        android:id="@+id/listrow_detail_completed_class_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/listrow_detail_completed_class_comment_string"
+        android:textSize="12sp"
+        android:drawableStart="@drawable/ic_comment_small"
+        android:drawablePadding="5dp"
+        android:layout_alignStart="@id/listrow_detail_completed_class_name"
+        android:layout_below="@+id/listrow_detail_completed_class_date"
+        android:layout_marginTop="2dp"/>
+
+    <TextView
+        android:id="@+id/listrow_detail_completed_class_completed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true"
+        android:text="@string/listrow_detail_completed_class_completed_string"
+        android:textSize="12sp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/listrow_detail_completed_class_completed_checkbox"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/done_description"
+        android:layout_toStartOf="@id/listrow_detail_completed_class_completed"
+        android:paddingRight="12dp"
+        android:src="@drawable/done_icon"/>
+</RelativeLayout>
